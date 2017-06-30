@@ -35,3 +35,5 @@ USER seluser
 
 EXPOSE 4444
 EXPOSE 5901
+
+COPY extension/ChangeUA.crx opt/selenium/ChangeUA.crx
